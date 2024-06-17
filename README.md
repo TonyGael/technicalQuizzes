@@ -1,2 +1,2 @@
 # technicalQuizzes
-technical questionnaires that I was testing
+Technical questionnaires that I tested in my job search as a Dev.
